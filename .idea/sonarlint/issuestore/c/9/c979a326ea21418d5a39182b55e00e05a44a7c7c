@@ -1,0 +1,21 @@
+
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¤õñşÿÿÿÿÿ8´àÕÒ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(££“ó8·ŞˆÓ/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(‚ĞÉÔøÿÿÿÿ8äÅÛÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅªÿÛşÿÿÿÿ8»‘Ñ/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Æó¥¥8äÅÛÒ/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(—Ğãºÿÿÿÿÿ8ÈıÓÒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šÓ´ë8ÇØ†Ñ/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8ÍœğÒ/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(×®Ø©ùÿÿÿÿ8”ëŸÓ/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(Ü“ªÉ8²êŠÓ/
+X	java:S125*"<This block of commented-out lines of code should be removed.(‘Üã«8“ïºÒ/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(àÈØ¼ûÿÿÿÿ8„ºñÒ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(¹áçŞúÿÿÿÿ8·ŞˆÓ/
+X	java:S125&"<This block of commented-out lines of code should be removed.(à«Àô8“ïºÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8×ñ‘Ñ/
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(ÔŒ´8‚ƒ¥Ò/
+X	java:S125$"<This block of commented-out lines of code should be removed.(ÁµÏö8“ïºÒ/
+]
+java:S1854!"@Remove this useless assignment to local variable "sortedPeople".(…¹Œé8èĞ‘Ò/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚ƒ¥Ò/
